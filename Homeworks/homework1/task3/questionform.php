@@ -46,7 +46,7 @@
         <h3>3.What's answer of (2*2)-2?</h3>
 
         <input type="radio" name="question3" value="ans1">
-        <label for="ans2">3</label><br>
+        <label for="ans1">3</label><br>
 
         <input type="radio" name="question3" value="ans2">
         <label for="ans2">6</label><br>
